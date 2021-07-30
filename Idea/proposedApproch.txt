@@ -1,0 +1,30 @@
+========Proposed Approach========
+This project aims to donate medicines which are unused. The unused medicine can be donated for further utilization by a needy person. This application helps the user to donate unused medicines to NGO. ​
+
+This medicine donator project are to prepare a portal for the collection of unused medicine for further utilization by a needy person. The website must be like user can donate the unused medicine to NGO.​
+The user can donate the medicine.​
+
+It’s can be claimed by NGO.​
+
+  They can collect from a particular place. There must be a login for the user, NGO, admin. Admin can see all details of user donated medicine.​
+
+ There must be a form like registration of the new user.​
+Medicine donate form. It’s must be tracked in the SQL Server database.​
+
+The user can donate the medicine.​
+It’s can be claimed by NGO.​
+
+  They can collect from a particular place. There must be a login for the user, NGO, admin. Admin can see all details of user donated medicine.​
+
+ There must be a form like registration of the new user.​
+Medicine donate form. It’s must be tracked in the SQL Server database.​
+
+Admin will login and manage members by deleting and blocking the users providing improper or expired medicines.​
+
+.  Admin has monthly report of medicines which has been donated. NGO can register and login using credentials. They can raise a request of appointment which will furthermore approved and schedule by admin.  ​
+NGO manages the stock which helps to maintain the record of the available medicine. In case of security NGO can also change their password. ​
+
+User can donate medicine by providing medicines detail and raising request, further it will be approved by admin​
+
+​
+
