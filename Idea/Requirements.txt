@@ -1,0 +1,29 @@
+Hardware Requirement:​
+
+  ​
+
+i3 Processor Based Computer or higher​
+
+Memory: 1 GB​
+
+Hard Drive: 50 GB​
+
+Monitor​
+
+Internet Connection​
+​
+  ​
+
+Software Requirement:​
+
+​
+
+Windows 7 or higher ​
+
+Visual Studio​
+
+SQL Server​
+
+Google Chrome Browser​
+
+​
